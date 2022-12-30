@@ -1,0 +1,38 @@
+header h1{
+    color: whitesmoke;
+    text-align: center;
+    padding:20px;
+    font-size: 2cm;
+}
+header {
+    background-color:darkmagenta;
+    padding: 10 px;
+    overflow: hidden;
+}
+nav a{
+    padding: 40px;
+    font-size: 1.5cm;
+    text-decoration: none;
+    color:aliceblue
+
+}
+nav{
+    background-color:blueviolet;
+    height: 2cm;
+    text-align: center;
+    overflow: hidden;
+}
+.name{
+    object-fit:cover;
+    width: 1500px;;
+}
+p{
+    color:darkmagenta;
+    font-size: 1cm;
+    font-weight: 500;
+}
+.end{
+    font-size: 1cm;
+    color: forestgreen;
+
+}
